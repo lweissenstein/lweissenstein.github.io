@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: L. Weißenstein # the website title (if blank, full name will be used instead)
+title: Lennart Weißenstein # the website title (if blank, full name will be used instead)
 first_name: Lennart
 middle_name:
 last_name: Weißenstein
@@ -191,9 +191,38 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+ 
+  # Blog
   - _posts/
-  - _blog/
-  - _books/
+  - _pages/blog.md
+  - _includes/latest_posts.liquid
+  - _includes/related_posts.liquid
+  - _layouts/archive.liquid
+  - _plugins/external-posts.rb
+
+  # Publications / Scholar
+  - _bibliography/
+  - _pages/publications.md
+  - _layouts/bib.liquid
+  - _includes/bib_search.liquid
+  - _includes/citation.liquid
+  - _includes/selected_papers.liquid
+  - _plugins/google-scholar-citations.rb
+  - _plugins/hide-custom-bibtex.rb
+  - _plugins/inspirehep-citations.rb
+
+  # News / Announcements
+  - _news/
+  - _includes/news.liquid
+
+  # People / Team / Contributors
+  - _pages/people.md
+  - _includes/people/
+  
+  # Bookshelf / other submenus
+  - _pages/books.md
+  - _pages/teaching.md
+
 
 keep_files:
   - CNAME
