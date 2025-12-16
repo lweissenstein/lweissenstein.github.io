@@ -8,6 +8,7 @@ category: work
 ---
 
 ---
+
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/biotopia/BioTopia_4.png" class="img-fluid rounded z-depth-1" %}
@@ -35,11 +36,11 @@ https://showtime.f4.htw-berlin.de/ss25/bachelor/b4-urban-bio-space-simulator/
 
 I worked primarily as an **Environment 3D Artist and Technical Artist**, bridging the gap between visual design and technical implementation in Unity.
 
-- 3D environment modeling & asset creation  
-- Asset optimization & mobile performance tuning  
-- Material and shader setup in Unity  
-- Visual consistency across assets from multiple contributors  
-- Gameplay & systems design collaboration  
+- 3D environment modeling & asset creation
+- Asset optimization & mobile performance tuning
+- Material and shader setup in Unity
+- Visual consistency across assets from multiple contributors
+- Gameplay & systems design collaboration
 
 ---
 
@@ -60,15 +61,15 @@ Urban biospaces and modular food production units inside a dense city environmen
 
 ## Gameplay & Systems
 
-BioTopia is a **city management simulation** focused on *systems*, not city layout.  
+BioTopia is a **city management simulation** focused on _systems_, not city layout.  
 Players must carefully allocate limited space while balancing research, resources, and population needs.
 
 Key gameplay elements include:
 
-- Modular urban biospaces for food production  
-- Procedural city growth increasing spatial pressure  
-- Research-driven progression based on real-world data  
-- Alternative food sources (algae, insects, halophytes, jellyfish)  
+- Modular urban biospaces for food production
+- Procedural city growth increasing spatial pressure
+- Research-driven progression based on real-world data
+- Alternative food sources (algae, insects, halophytes, jellyfish)
 
 ---
 
@@ -90,9 +91,9 @@ A major challenge was **porting a PC prototype to mobile and tablet devices** wh
 
 Key technical learnings:
 
-- Optimizing materials, shaders, and poly-counts for mobile GPUs  
-- Establishing a clean asset pipeline for multi-artist collaboration  
-- Translating scientific research into intuitive, playable systems  
+- Optimizing materials, shaders, and poly-counts for mobile GPUs
+- Establishing a clean asset pipeline for multi-artist collaboration
+- Translating scientific research into intuitive, playable systems
 
 ---
 
