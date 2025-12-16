@@ -2,13 +2,13 @@
   "basics": {
     "name": "Lennart Weissenstein",
     "label": "Unity Developer & Technical Artist",
-    "image": "",
+    "image": "/assets/img/prof_pic.jpg",
     "email": "le.weissenstein@gmail.com",
     "phone": "+49 152 27 158 227",
     "url": "https://lweissenstein.github.io",
     "summary": "International Media Informatics student specializing in **Game Design, 3D Modeling, and Materials/Asset Optimization**. Technical proficiency in Unity and Maya with a proven professional background in project coordination and communication. Eager to actively contribute my technical skills and enthusiasm to dynamic projects within game development and 3D environment art.",
     "location": {
-      "address": "Werrastraße 38",
+      "address": "Werrastraße",
       "postalCode": "12059",
       "city": "Berlin",
       "countryCode": "DE",
