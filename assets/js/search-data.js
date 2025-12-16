@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A collection of some of my projects",
+          description: "a collection of university and personal projects",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -53,15 +53,10 @@ ninja.data = [{
           
         },
       },{id: "projects-3d-turntable",
-          title: '3D Turntable',
+          title: '3d-turntable',
           description: "High-quality 3D model of a Technics 1210 MK2 turntable",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3d-turntable-technics.html";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project.html";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
@@ -88,15 +83,20 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
             },},{id: "projects-astro-dungeon",
-          title: 'Astro Dungeon',
+          title: 'astro-dungeon',
           description: "2D Endless Top-Down Shooter",
           section: "Projects",handler: () => {
               window.location.href = "/projects/astro-dungeon.html";
             },},{id: "projects-biotopia",
-          title: 'BioTopia',
+          title: 'biotopia',
           description: "Urban Bio Space Simulator (Unity, Mobile)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/biotopia.html";
+            },},{id: "projects-portfolio-website",
+          title: 'portfolio website',
+          description: "Jekyll-based static site development and CI/CD implementation.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/lweissenstein.github.io.html";
             },},{
         id: 'social-cv',
         title: 'CV',
