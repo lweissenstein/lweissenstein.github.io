@@ -52,8 +52,8 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "projects-3d-turntable-technics-1210-mk2",
-          title: '3D Turntable � Technics 1210 MK2',
+      },{id: "projects-3d-turntable",
+          title: '3D Turntable',
           description: "High-quality 3D model of a Technics 1210 MK2 turntable",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3d-turntable-technics.html";
