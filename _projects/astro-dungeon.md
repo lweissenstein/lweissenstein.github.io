@@ -2,9 +2,9 @@
 layout: page
 title: Astro Dungeon
 description: 2D Endless Top-Down Shooter
-img: assets/img/astro-dungeon/Icon_v1.png
+img: assets/img/astro-dungeon/InGame6.png
 importance: 2
-category: work
+category: uni
 ---
 
 ---
@@ -72,7 +72,7 @@ Key gameplay elements include:
 
 ---
 
-<div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center"> 
   <div class="col-sm-8 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/astro-dungeon/InGame5.png" class="img-fluid rounded z-depth-1" %}
   </div>
