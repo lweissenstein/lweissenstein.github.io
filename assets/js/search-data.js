@@ -52,11 +52,11 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+      },{id: "projects-biotopia",
+          title: 'BioTopia',
+          description: "Urban Bio Space Simulator (Unity, Mobile)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
+              window.location.href = "/projects/1_biotopia.html";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
