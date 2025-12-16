@@ -66,7 +66,7 @@
       "highlights": [
         "Environment 3D Artist: Modeled and textured key environment assets.",
         "Technical Art & Pipeline: Optimized models from various team member for mobile performance, ensuring a cohesive art style and clean asset pipeline.",
-        "Material Setup: Created and managed materials and shaders in Unity for mobile performance.",
+        "Material Setup: Created and managed materials and shaders in Unity for mobile performance."
       ],
       "startDate": "",
       "endDate": "",
@@ -78,7 +78,7 @@
       "highlights": [
         "Implemented 360° shooting and gun rotation with directional sprites.",
         "Developed a custom UI and local highscore system.",
-        "Created custom pulsating shader in ShaderGraph and used Tilemaps for designing the arena.",
+        "Created custom pulsating shader in ShaderGraph and used Tilemaps for designing the arena."
       ],
       "startDate": "",
       "endDate": "",
@@ -90,7 +90,7 @@
       "highlights": [
         "Modeling and Scene Setup completed in Autodesk Maya.",
         "Implemented PBR workflow for realistic material definition (Base Color, Roughness, Normal maps).",
-        "Used Arnold renderer with a 3-point lighting setup for final high-quality renders.",
+        "Used Arnold renderer with a 3-point lighting setup for final high-quality renders."
       ],
       "startDate": "",
       "endDate": "",
