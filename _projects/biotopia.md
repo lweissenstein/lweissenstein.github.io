@@ -5,6 +5,7 @@ description: Urban Bio Space Simulator (Unity, Mobile)
 img: assets/img/biotopia/BioTopia_2.png
 importance: 1
 category: uni
+selected: true
 ---
 
 ---
