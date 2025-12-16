@@ -30,31 +30,26 @@
   "skills": [
     {
       "name": "3D & Tech Art",
-      "level": "Beginner-Intermediate",
       "icon": "fa-solid fa-cube",
       "keywords": ["Unity Workflows", "Blender", "Maya", "Basic Shader Logic", "Asset Preparation", "Scene Composition"]
     },
     {
       "name": "Game Development",
-      "level": "Intermediate",
       "icon": "fa-solid fa-gamepad",
       "keywords": ["Game Design", "Real-time 3D", "Prototyping", "Basic Animation & Rigging", "VR/AR"]
     },
     {
       "name": "Programming",
-      "level": "Intermediate",
       "icon": "fa-solid fa-code",
       "keywords": ["C#", "Java", "JavaScript"]
     },
     {
       "name": "Software & Tools",
-      "level": "Proficient",
       "icon": "fa-solid fa-toolbox",
       "keywords": ["Jira", "Trello", "Notion", "Microsoft Office"]
     },
     {
       "name": "General Skills",
-      "level": "Experienced",
       "icon": "fa-solid fa-users",
       "keywords": ["Event planning & project management", "Communication & teamwork", "Logistics coordination"]
     }
@@ -114,7 +109,7 @@
       "location": "Berlin, Germany",
       "url": "",
       "area": "Industrial Engineering with Civil Engineering",
-      "studyType": "Uncompleted",
+      "studyType": "Uncompleted (Career Change)",
       "startDate": "2016-01-01",
       "endDate": "2022-01-01",
       "score": "",
@@ -135,39 +130,48 @@
   "work": [
     {
       "name": "Zukunft findet Stadt (HTW Berlin)",
-      "position": "Student Assistant",
+      "position": "Student Assistant: PR & Communication",
       "url": "",
       "startDate": "2023-01-01",
       "endDate": "Present",
-      "summary": "Supporting communication, event planning, and coordination for university projects. Assisting with project documentation, internal workflows, and public-facing formats.",
-      "highlights": ["Event planning & coordination", "Project documentation support"]
+      "summary": "Supported the Communication Department (PR, event planning, and content management) while pursuing my B.Sc. in International Media Informatics.",
+      "highlights": [
+        "Managing public website content (blog, events, subprojects, images/licenses) using Typo3 CMS.",
+        "Supporting event planning and execution, requiring schedule coordination across multiple internal teams."
+      ]
     },
     {
       "name": "neues handeln AG",
-      "position": "Student Assistant",
+      "position": "Student Assistant: Event & Project Management",
       "url": "",
       "startDate": "2020-01-01",
       "endDate": "2022-12-31",
-      "summary": "Supported PR and event-focused project management for federal clients (BMEL, BMG, BZgA). Helped plan and execute large events and communication campaigns. Organized logistics, schedules, and team coordination.",
-      "highlights": ["PR and event-focused project management", "Logistics and team coordination"]
+      "summary": "Provided support in PR and event-focused project management for major federal clients (BMEL, BMG, BZgA) during my studies.",
+      "highlights": [
+        "Coordinated external partners for large-scale events and communication campaigns.",
+        "Managed detailed logistics, schedules, resource allocation and on-site operation to ensure a quality project execution."
+      ]
     },
     {
       "name": "LOTTO Berlin",
-      "position": "Student Assistant",
+      "position": "Student Assistant: Logistics & Sales",
       "url": "",
       "startDate": "2018-01-01",
       "endDate": "2020-12-31",
-      "summary": "Assisted area managers with logistics and sales coordination. Prepared and followed up on training events.",
-      "highlights": []
+      "summary": "Provided logistics support and coordinated sales materials for area managers.",
+      "highlights": [
+        "Maintained inventory and supply chain logistics, demonstrating organizational accountability.",
+        "Prepared and followed up on training events, showcasing attention to detail and process management."
+      ]
     },
     {
       "name": "Zenjob",
-      "position": "Short-term Employment (Various roles)",
+      "position": "Short-term Employment (Logistics/Service)",
       "url": "",
       "startDate": "2016-01-01",
       "endDate": "2018-12-31",
-      "summary": "Various service and logistics roles including catering, warehouse coordination, and supermarket work.",
-      "highlights": []
+      "summary": "Executed various service and logistics roles including catering, warehouse coordination, and retail support.",
+      "highlights": ["Demonstrated flexibility and reliability in rapidly changing professional environments."]
     }
   ],
   "languages": [
