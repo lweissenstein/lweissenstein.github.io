@@ -66,8 +66,8 @@ Key gameplay elements include:
 - Endless top-down shooter with progressively harder waves
 - Mouse-aimed shooting with rotating gun visuals
 - Tilemap-based arenas for structured encounters
-- Variety of enemies and strategic power-ups  
-- Local highscore system to track best performances  
+- Variety of enemies and strategic power-ups
+- Local highscore system to track best performances
 - Pause menu, simple UI, and audio integration
 
 ---
@@ -91,10 +91,10 @@ Arena layouts, enemy variety, and power-ups combine for challenging and engaging
 
 Some of the main challenges included:
 
-- Implementing **360° shooting** and smooth directional gun rotation  
-- Custom **shader effects** for power-ups  
-- Balancing gameplay difficulty and progression  
-- Creating a visually appealing, cohesive style with minimal performance cost  
+- Implementing **360ï¿½ shooting** and smooth directional gun rotation
+- Custom **shader effects** for power-ups
+- Balancing gameplay difficulty and progression
+- Creating a visually appealing, cohesive style with minimal performance cost
 - Managing input, feedback, and responsiveness for the player
 
 ---
@@ -116,9 +116,9 @@ Smooth animations, engaging enemy encounters, and player feedback were key focus
 
 ## Team & Context
 
-Astro Dungeon is a **solo project** for portfolio purposes.  
+Astro Dungeon is a **solo project** for portfolio purposes.
 
-All assets and code are created or adapted by me for this project.  
+All assets and code are created or adapted by me for this project.
 
 This repository exists **for portfolio display only**.
 
