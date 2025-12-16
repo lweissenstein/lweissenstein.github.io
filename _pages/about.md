@@ -36,7 +36,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <br>
 <hr>
 
-<h2>Selected Works</h2>
+<h2>selected projects</h2>
 
 <div class="projects">
   <div class="row row-cols-1 row-cols-md-3">
@@ -49,9 +49,10 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
     {% for project in sorted_featured %}
       {% include projects.liquid %}
     {% endfor %}
+
   </div>
 
   <div class="mt-3 text-center">
-    <a href="{{ '/projects/' | relative_url }}" class="btn btn-outline-primary btn-lg" role="button">View Full Portfolio</a>
+    <a href="{{ '/projects/' | relative_url }}" class="btn btn-outline-primary btn-lg" role="button">view full portfolio</a>
   </div>
 </div>
