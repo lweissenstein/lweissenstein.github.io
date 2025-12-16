@@ -2,7 +2,7 @@
 layout: page
 title: 3D Turntable
 description: High-quality 3D model of a Technics 1210 MK2 turntable
-img: assets/img/3d-turntable-technics/Technics_render_front.png
+img: assets/img/3d-turntable-technics/Technics_render_front_left.png
 importance: 3
 category: uni
 ---
@@ -125,6 +125,4 @@ Top view showing layout, platter, and control placement.
 
 ## License & Credits
 
-All textures used are sourced from **free PBR materials**; see [texture-credits.md](./licenses/texture-credits.md) for license details.
-
-This project is presented **for portfolio purposes only**.
+Visit the GitHub Repository for license information
