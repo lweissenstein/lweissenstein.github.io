@@ -59,11 +59,11 @@ Players face waves of enemies while collecting power-ups and navigating tilemap-
 
 ## Gameplay & Systems
 
-Astro Dungeon emphasizes **skill, strategy, and fast reflexes** rather than level layout.  
+Astro Dungeon emphasizes **skill, strategy, and fast reflexes** rather than level layout.
 
 Key gameplay elements include:
 
-- Endless top-down shooter with progressively harder waves  
-- Mouse-aimed shooting with rotating gun visuals  
-- Tilemap-based arenas for structured encounters  
+- Endless top-down shooter with progressively harder waves
+- Mouse-aimed shooting with rotating gun visuals
+- Tilemap-based arenas for structured encounters
 - Variety of enemies and
