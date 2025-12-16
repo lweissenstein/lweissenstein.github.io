@@ -5,7 +5,7 @@
     "image": "",
     "email": "le.weissenstein@gmail.com",
     "phone": "+49 152 27 158 227",
-    "url": "https://github.com/lweissenstein",
+    "url": "https://lweissenstein.github.io",
     "summary": "Motivated interactive media student with experience in 3D modeling, Unity, and software development. Strong background in event-driven teamwork, communication, and project coordination. Passionate about real-time 3D, game design, VR/AR, and creating visually engaging interactive experiences. Looking for an internship to grow technical skills while contributing to creative development teams.",
     "location": {
       "address": "Werrastraße 38",
@@ -32,83 +32,69 @@
       "name": "3D & Tech Art",
       "level": "Beginner-Intermediate",
       "icon": "fa-solid fa-cube",
-      "keywords": [
-        "Unity Workflows",
-        "Blender",
-        "Maya",
-        "Basic Shader Logic",
-        "Asset Preparation",
-        "Scene Composition"
-      ]
+      "keywords": ["Unity Workflows", "Blender", "Maya", "Basic Shader Logic", "Asset Preparation", "Scene Composition"]
     },
     {
       "name": "Game Development",
       "level": "Intermediate",
       "icon": "fa-solid fa-gamepad",
-      "keywords": [
-        "Game Design",
-        "Real-time 3D",
-        "Prototyping",
-        "Basic Animation & Rigging",
-        "VR/AR"
-      ]
+      "keywords": ["Game Design", "Real-time 3D", "Prototyping", "Basic Animation & Rigging", "VR/AR"]
     },
     {
       "name": "Programming",
       "level": "Intermediate",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "C#",
-        "Java",
-        "JavaScript"
-      ]
+      "keywords": ["C#", "Java", "JavaScript"]
     },
     {
       "name": "Software & Tools",
       "level": "Proficient",
       "icon": "fa-solid fa-toolbox",
-      "keywords": [
-        "Jira",
-        "Trello",
-        "Notion",
-        "Microsoft Office"
-      ]
+      "keywords": ["Jira", "Trello", "Notion", "Microsoft Office"]
     },
     {
       "name": "General Skills",
       "level": "Experienced",
       "icon": "fa-solid fa-users",
-      "keywords": [
-        "Event planning & project management",
-        "Communication & teamwork",
-        "Logistics coordination"
-      ]
+      "keywords": ["Event planning & project management", "Communication & teamwork", "Logistics coordination"]
     }
   ],
   "projects": [
     {
-      "name": "Project 1",
-      "summary": "Description goes here - focus on Tech Art aspects (e.g., 'Created custom shaders for water effects' or 'Optimized assets for mobile').",
-      "highlights": [],
+      "name": "BioTopia: Urban Bio Space Simulator (Team Project)",
+      "summary": "Serious game simulation developed for research partners (Food4Future, IGZ). The mobile/tablet game challenges players to implement alternative, research-based food production methods (crickets, macroalgae) to feed a growing population",
+      "highlights": [
+        "Environment 3D Artist: Modeled and textured key environment assets.",
+        "Technical Art & Pipeline: Optimized models from various team member for mobile performance, ensuring a cohesive art style and clean asset pipeline.",
+        "Material Setup: Created and managed materials and shaders in Unity for mobile performance.",
+      ],
       "startDate": "",
       "endDate": "",
-      "url": "Link"
+      "url": "https://github.com/lweissenstein/biotopia"
     },
     {
-      "name": "Project 2",
-      "summary": "Description goes here.",
-      "highlights": [],
+      "name": "Astro Dungeon",
+      "summary": "A 2D endless top-down shooter mini-game where the player controls a stranded astronaut defending against alien waves.",
+      "highlights": [
+        "Implemented 360° shooting and gun rotation with directional sprites.",
+        "Developed a custom UI and local highscore system.",
+        "Created custom pulsating shader in ShaderGraph and used Tilemaps for designing the arena.",
+      ],
       "startDate": "",
       "endDate": "",
-      "url": "Link"
+      "url": "https://github.com/lweissenstein/astro-dungeon"
     },
     {
-      "name": "Project 3",
-      "summary": "Description goes here.",
-      "highlights": [],
+      "name": "3D Turntable Project – Technics 1210 MK2",
+      "summary": "High-quality, highly detailed 3D asset creation project (57k+ vertices) completed for a university 3D Design course. Focused on technical skill in modeling, material setup, and rendering.",
+      "highlights": [
+        "Modeling and Scene Setup completed in Autodesk Maya.",
+        "Implemented PBR workflow for realistic material definition (Base Color, Roughness, Normal maps).",
+        "Used Arnold renderer with a 3-point lighting setup for final high-quality renders.",
+      ],
       "startDate": "",
       "endDate": "",
-      "url": "Link"
+      "url": "https://github.com/lweissenstein/3d-turntable-technics"
     }
   ],
   "education": [
