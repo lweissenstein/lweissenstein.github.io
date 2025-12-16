@@ -52,21 +52,11 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "projects-biotopia",
-          title: 'BioTopia',
-          description: "Urban Bio Space Simulator (Unity, Mobile)",
+      },{id: "projects-3d-turntable-technics-1210-mk2",
+          title: '3D Turntable � Technics 1210 MK2',
+          description: "High-quality 3D model of a Technics 1210 MK2 turntable",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_biotopia.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project.html";
+              window.location.href = "/projects/3d-turntable-technics.html";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
@@ -97,6 +87,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
+            },},{id: "projects-astro-dungeon",
+          title: 'Astro Dungeon',
+          description: "2D Endless Top-Down Shooter",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/astro-dungeon.html";
+            },},{id: "projects-biotopia",
+          title: 'BioTopia',
+          description: "Urban Bio Space Simulator (Unity, Mobile)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/biotopia.html";
             },},{
         id: 'social-cv',
         title: 'CV',
