@@ -53,6 +53,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
   </div>
 
   <div class="mt-3 text-center">
-    <a href="{{ '/projects/' | relative_url }}" class="btn btn-outline-primary btn-lg" role="button">view full portfolio</a>
+    <a href="{{ '/projects/' | relative_url }}" class="btn btn-outline-primary btn-lg" role="button">all projects</a>
   </div>
 </div>

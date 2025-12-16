@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of some of my projects
+description: a collection of university and personal projects
 nav: true
 nav_order: 3
-display_categories: [uni, fun]
+display_categories: [uni, private, in progress]
 horizontal: false
 ---
 
