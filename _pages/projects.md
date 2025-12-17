@@ -5,7 +5,7 @@ permalink: /projects/
 description: a collection of university and personal projects
 nav: true
 nav_order: 3
-display_categories: [uni, private, in progress]
+display_categories: [uni, private]
 horizontal: false
 ---
 
