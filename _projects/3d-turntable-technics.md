@@ -18,7 +18,7 @@ selected: true
 
 ---
 
-**3D Turntable � Technics 1210 MK2** is a detailed 3D asset created as part of a university **3D Design** assignment.  
+**3D Turntable (Technics 1210 MK2)** is a detailed 3D asset created as part of a university **3D Design** assignment.  
 The project demonstrates modeling accuracy, material setup, and photorealistic rendering techniques.
 
 ---
