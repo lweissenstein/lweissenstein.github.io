@@ -23,11 +23,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Lennart Weissenstein, a Unity Developer and Technical Artist based in Berlin. I enjoy creating interactive experiences, from 3D environments to smaller-scale games and prototypes.  
+Hi, I'm Lennart Weissenstein, a Unity Developer and Technical Artist based in Berlin. I enjoy creating interactive experiences, from 3D environments to smaller-scale games and prototypes.
 
-I'm currently studying International Media Informatics at HTW Berlin, focusing on Game Design, 3D Modeling, and Materials/Asset Optimization. I have experience working on collaborative team projects both at university and professionally, including co-creating a serious game prototype with Food4Future and IGZ, as well as completing solo projects such as 3D models and a 2D endless shooter game.  
+I'm currently studying International Media Informatics at HTW Berlin, focusing on Game Design, 3D Modeling, and Materials/Asset Optimization. I have experience working on collaborative team projects both at university and professionally, including co-creating a serious game prototype with Food4Future and IGZ, as well as completing solo projects such as 3D models and a 2D endless shooter game.
 
-I am focused on further developing my skills as a Game Designer, 3D Artist, and Technical Artist, contributing to projects where creativity and technical precision are valued.  
+I am focused on further developing my skills as a Game Designer, 3D Artist, and Technical Artist, contributing to projects where creativity and technical precision are valued.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/lennart-weissenstein/) and check out my work on [GitHub](https://github.com/lweissenstein).
 
@@ -47,4 +47,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/lennart-weissenstein/)
   </div>
 </div>
 
-Check out [all my projects](/projects/).
+`Check out [all my projects](/projects/).`
