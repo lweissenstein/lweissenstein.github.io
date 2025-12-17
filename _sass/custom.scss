@@ -15,6 +15,7 @@ h2.category {
   border-bottom: 1px solid #959595 !important;
 }
 
-:root {
-  --global-font-family: "Ubuntu Mono", monospace;
+body,
+body *:not(code):not(pre):not(kbd):not(samp) {
+  font-family: "Ubuntu Mono", monospace !important;
 }
