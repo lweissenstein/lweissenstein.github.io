@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-projects",
-          title: "Projects",
+          title: "projects",
           description: "A collection of university and personal projects.",
           section: "Navigation",
           handler: () => {
@@ -24,8 +24,8 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-repositories",
-          title: "Repositories",
-          description: "Check my GitHub and Repositories",
+          title: "repositories",
+          description: "Check my GitHub and repositories",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -93,7 +93,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/biotopia.html";
             },},{id: "projects-portfolio-website",
-          title: 'portfolio website',
+          title: 'Portfolio Website',
           description: "Jekyll-based static site development and CI/CD implementation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lweissenstein.github.io.html";
