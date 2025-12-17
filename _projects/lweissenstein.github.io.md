@@ -1,6 +1,6 @@
 ---
 layout: page
-title: portfolio website
+title: Portfolio Website
 description: Jekyll-based static site development and CI/CD implementation.
 img: /assets/img/screenshot_landing.png
 importance: 4

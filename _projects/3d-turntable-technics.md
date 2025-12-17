@@ -4,7 +4,7 @@ title: 3D Turntable
 description: High-quality 3D model of a Technics 1210 MK2 turntable
 img: assets/img/3d-turntable-technics/Technics_render_front_left.png
 importance: 3
-category: uni
+category: university
 selected: true
 ---
 

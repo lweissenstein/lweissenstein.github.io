@@ -4,7 +4,7 @@ title: Astro Dungeon
 description: 2D Endless Top-Down Shooter
 img: assets/img/astro-dungeon/InGame6.png
 importance: 2
-category: uni
+category: university
 selected: true
 ---
 
