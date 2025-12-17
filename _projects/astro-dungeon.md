@@ -1,6 +1,6 @@
 ---
 layout: page
-title: astro-dungeon
+title: Astro Dungeon
 description: 2D Endless Top-Down Shooter
 img: assets/img/astro-dungeon/InGame6.png
 importance: 2
