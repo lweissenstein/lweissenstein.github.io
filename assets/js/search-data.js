@@ -10,8 +10,8 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-projects",
-          title: "projects",
-          description: "a collection of university and personal projects",
+          title: "Projects",
+          description: "A collection of university and personal projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -24,8 +24,8 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-repositories",
-          title: "repositories",
-          description: "Check my GitHub and repositories",
+          title: "Repositories",
+          description: "Check my GitHub and Repositories",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -53,7 +53,7 @@ ninja.data = [{
           
         },
       },{id: "projects-3d-turntable",
-          title: '3d-turntable',
+          title: '3D Turntable',
           description: "High-quality 3D model of a Technics 1210 MK2 turntable",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3d-turntable-technics.html";
@@ -83,12 +83,12 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
             },},{id: "projects-astro-dungeon",
-          title: 'astro-dungeon',
+          title: 'Astro Dungeon',
           description: "2D Endless Top-Down Shooter",
           section: "Projects",handler: () => {
               window.location.href = "/projects/astro-dungeon.html";
             },},{id: "projects-biotopia",
-          title: 'biotopia',
+          title: 'Biotopia',
           description: "Urban Bio Space Simulator (Unity, Mobile)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/biotopia.html";
