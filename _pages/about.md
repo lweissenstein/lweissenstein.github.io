@@ -9,9 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>This is me!</p>
-    <p>Feel free to reach out to me:</p>
-    <p>le.weissenstein@gmail.com</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -35,7 +32,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <div class="projects">
   <h2 class="category">selected projects</h2>
-
   <div class="row row-cols-1 row-cols-md-3">
     {% assign all_projects = site.projects %}
 
