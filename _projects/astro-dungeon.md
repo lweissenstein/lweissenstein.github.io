@@ -9,7 +9,7 @@ selected: true
 ---
 
 **Developer:** Lennart Weißenstein  
-**Project:** 2D Endless Top-Down Shooter  
+**Project:** 2D Endless Top-Down Shooter
 
 ---
 
@@ -33,11 +33,11 @@ selected: true
 
 I worked as a **Game Designer and Technical Artist**, focusing on bridging gameplay mechanics, visual design, and technical implementation.
 
-* Designed player controls and shooting mechanics
-* Created and animated the astronaut character
-* Developed custom shaders for power-ups
-* Balanced enemies, difficulty progression, and gameplay loops
-* Ensured smooth performance and polished visuals
+- Designed player controls and shooting mechanics
+- Created and animated the astronaut character
+- Developed custom shaders for power-ups
+- Balanced enemies, difficulty progression, and gameplay loops
+- Ensured smooth performance and polished visuals
 
 ---
 
@@ -49,9 +49,6 @@ I worked as a **Game Designer and Technical Artist**, focusing on bridging gamep
     {% include figure.liquid path="assets/img/astro-dungeon/InGame2.png" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-<div class="caption">
-Players face waves of enemies while collecting power-ups and navigating tilemap-based arenas.
-</div>
 
 ---
 
@@ -61,12 +58,12 @@ Astro Dungeon emphasizes **skill, strategy, and fast reflexes** rather than leve
 
 Key gameplay elements include:
 
-* Endless top-down shooter with progressively harder waves
-* Mouse-aimed shooting with rotating gun visuals
-* Tilemap-based arenas for structured encounters
-* Variety of enemies and strategic power-ups
-* Local highscore system to track best performances
-* Pause menu, simple UI, and audio integration
+- Endless top-down shooter with progressively harder waves
+- Mouse-aimed shooting with rotating gun visuals
+- Tilemap-based arenas for structured encounters
+- Variety of enemies and strategic power-ups
+- Local highscore system to track best performances
+- Pause menu, simple UI, and audio integration
 
 ---
 
@@ -78,9 +75,6 @@ Key gameplay elements include:
     {% include figure.liquid path="assets/img/astro-dungeon/InGame4.png" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-<div class="caption">
-Arena layouts, enemy variety, and power-ups combine for challenging and engaging gameplay.
-</div>
 
 ---
 
@@ -88,11 +82,11 @@ Arena layouts, enemy variety, and power-ups combine for challenging and engaging
 
 Some of the main challenges included:
 
-* Implementing **360° shooting** and smooth directional gun rotation
-* Custom **shader effects** for power-ups
-* Balancing gameplay difficulty and progression
-* Creating a visually appealing, cohesive style with minimal performance cost
-* Managing input, feedback, and responsiveness for the player
+- Implementing **360° shooting** and smooth directional gun rotation
+- Custom **shader effects** for power-ups
+- Balancing gameplay difficulty and progression
+- Creating a visually appealing, cohesive style with minimal performance cost
+- Managing input, feedback, and responsiveness for the player
 
 ---
 
@@ -103,9 +97,6 @@ Some of the main challenges included:
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/astro-dungeon/InGame8.png" class="img-fluid rounded z-depth-1" %}
   </div>
-</div>
-<div class="caption">
-Smooth animations, engaging enemy encounters, and player feedback were key focus points.
 </div>
 
 ---

@@ -8,7 +8,7 @@ category: university
 selected: true
 ---
 
-**Developer:** Lennart Weißenstein  
+**Developer:** Lennart Weiï¿½enstein  
 **Project:** Realistic 3D Turntable
 
 ---
@@ -31,10 +31,10 @@ selected: true
 
 I was responsible for the **entire 3D modeling, texturing, and rendering workflow**:
 
-* High-detail polygonal modeling in Autodesk Maya
-* PBR material creation for realistic surface properties
-* Lighting and rendering setup using a 3-point lighting system
-* Final renders optimized for portfolio presentation
+- High-detail polygonal modeling in Autodesk Maya
+- PBR material creation for realistic surface properties
+- Lighting and rendering setup using a 3-point lighting system
+- Final renders optimized for portfolio presentation
 
 ---
 
@@ -49,9 +49,6 @@ I was responsible for the **entire 3D modeling, texturing, and rendering workflo
     {% include figure.liquid path="assets/img/3d-turntable-technics/Technics_render_back_right.png" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-<div class="caption">
-Back perspectives showing detailed casing, connectors, and mechanical components.
-</div>
 
 ---
 
@@ -59,10 +56,10 @@ Back perspectives showing detailed casing, connectors, and mechanical components
 
 I utilized a standard high-to-low poly workflow to ensure both visual fidelity and technical efficiency.
 
-* **Software & Tools:** Autodesk Maya, Arnold Renderer, Hypershade
-* **Workflow:** Polygon modeling, PBR materials, lighting & camera setup
-* **Polygon Count:** 57,793 vertices; 112,514 triangles
-* **Files included:** FBX / OBJ + MTL; textures; rendered PNGs at 1080p
+- **Software & Tools:** Autodesk Maya, Arnold Renderer, Hypershade
+- **Workflow:** Polygon modeling, PBR materials, lighting & camera setup
+- **Polygon Count:** 57,793 vertices; 112,514 triangles
+- **Files included:** FBX / OBJ + MTL; textures; rendered PNGs at 1080p
 
 ---
 
@@ -73,9 +70,6 @@ I utilized a standard high-to-low poly workflow to ensure both visual fidelity a
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/3d-turntable-technics/Technics_render_front_right.png" class="img-fluid rounded z-depth-1" %}
   </div>
-</div>
-<div class="caption">
-Front-side angles highlight buttons, platters, and the tonearm assembly.
 </div>
 
 ---
@@ -90,9 +84,6 @@ Front-side angles highlight buttons, platters, and the tonearm assembly.
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/3d-turntable-technics/Technics_render_side_right.png" class="img-fluid rounded z-depth-1" %}
   </div>
-</div>
-<div class="caption">
-Side perspectives emphasizing thickness, base, and tonearm mechanics.
 </div>
 
 ---
