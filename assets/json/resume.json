@@ -71,7 +71,7 @@
         "Clear & Structured Communication",
         "Working with External Stakeholders",
         "Team Collaboration in Production Environments",
-        "management Tools (Notion, Asana, Teams)"
+        "Management Tools (Notion, Asana, Teams)"
       ]
     }
   ],
@@ -117,7 +117,7 @@
     {
       "institution": "HTW Berlin",
       "location": "Germany",
-      "url": "https://www.htw-berlin.de/en/",
+      "url": "https://imi-bachelor.htw-berlin.de//",
       "area": "Programming, Game Design, Visual Computing, Web Dev.",
       "studyType": "International Media Informatics - B.Sc.",
       "startDate": "2022",
@@ -128,8 +128,8 @@
     {
       "institution": "TU Berlin",
       "location": "Germany",
-      "url": "https://www.tu.berlin/en/",
-      "area": "Civil Engineering and Business Studies",
+      "url": "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/industrial-engineering-and-management-b-sc",
+      "area": "Civil Engineering and Management",
       "studyType": "Industrial Engineering - B.Sc. (uncompleted / Career Change)",
       "startDate": "2016",
       "endDate": "2022",
