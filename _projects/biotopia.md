@@ -8,6 +8,8 @@ category: university
 selected: true
 ---
 
+---
+
 <div class="row justify-content-sm-center">
   <div class="col-sm-12 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/biotopia/BioTopia_2.png" class="img-fluid rounded z-depth-1" %}
@@ -16,7 +18,7 @@ selected: true
 
 ---
 
-**BioTopia** is a serious urban simulation game developed in collaboration with **Food4Future (f4f)** and the **Leibniz-Institut fuer Gemuese- und Zierpflanzenbau (IGZ)**.
+**Biotopia** is a serious urban simulation game developed in collaboration with **Food4Future (f4f)** and the **Leibniz-Institut fuer Gemuese- und Zierpflanzenbau (IGZ)**.
 
 The game explores future food production under conditions of limited space, water scarcity, and disrupted trade. Players design and manage compact **urban biospaces** to sustain a growing population using alternative food sources.
 

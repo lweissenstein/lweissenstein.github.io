@@ -8,6 +8,8 @@ category: university
 selected: true
 ---
 
+---
+
 <div class="row justify-content-sm-center">
   <div class="col-sm-12 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/astro-dungeon/InGame6.png" class="img-fluid rounded z-depth-1" %}
