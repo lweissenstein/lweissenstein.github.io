@@ -47,4 +47,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/lennart-weissenstein/)
   </div>
 </div>
 
-`Check out my` [projects](/projects/).
+Check out [all of my projects](/projects/).
