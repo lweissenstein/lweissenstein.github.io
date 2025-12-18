@@ -8,6 +8,11 @@ category: university
 selected: true
 ---
 
+**Developer:** Lennart Weiﬂenstein  
+**Project:** Realistic 3D Turntable
+
+---
+
 <div class="row justify-content-sm-center">
   <div class="col-sm-12 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/3d-turntable-technics/Technics_render_front.png" class="img-fluid rounded z-depth-1" %}
@@ -17,6 +22,8 @@ selected: true
 ---
 
 **3D Turntable (Technics 1210 MK2)** is a detailed 3D asset created as part of a university **3D Design** assignment. The project demonstrates modeling accuracy, material setup, and photorealistic rendering techniques.
+
+**github repository:** [lweissenstein/3d-turntable-technics](https://github.com/lweissenstein/3d-turntable-technics)
 
 ---
 

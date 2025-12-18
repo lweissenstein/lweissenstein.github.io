@@ -8,6 +8,11 @@ category: university
 selected: true
 ---
 
+**Developer:** Lennart Weißenstein  
+**Project:** 2D Endless Top-Down Shooter  
+
+---
+
 <div class="row justify-content-sm-center">
   <div class="col-sm-12 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/astro-dungeon/InGame6.png" class="img-fluid rounded z-depth-1" %}
@@ -18,9 +23,9 @@ selected: true
 
 **Astro Dungeon** is a 2D endless top-down shooter where you play as a stranded astronaut defending against waves of alien enemies. Players navigate procedurally generated arenas, collect power-ups, and aim strategically to survive as long as possible.
 
-**GitHub repository:** https://github.com/lweissenstein/astro-dungeon
+**play online:** [itch.io](https://weissenstein.itch.io/astro-dungeon)
 
-**Play online:** [Itch.io](https://weissenstein.itch.io/funless-game)
+**github repository:** [lweissenstein/astro-dungeon](https://github.com/lweissenstein/astro-dungeon)
 
 ---
 

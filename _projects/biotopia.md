@@ -8,6 +8,12 @@ category: university
 selected: true
 ---
 
+**Developer:** Team Project / Lennart Weiﬂenstein  
+**Role:** Environment 3D Artist, Tech Artist, Game Designer  
+**Project:** Serious Game for Mobile / Tablet (Unity) 
+
+---
+
 <div class="row justify-content-sm-center">
   <div class="col-sm-12 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/biotopia/BioTopia_2.png" class="img-fluid rounded z-depth-1" %}
@@ -20,9 +26,9 @@ selected: true
 
 The game explores future food production under conditions of limited space, water scarcity, and disrupted trade. Players design and manage compact **urban biospaces** to sustain a growing population using alternative food sources.
 
-**GitHub repository:** https://github.com/lweissenstein/biotopia
+**Project website:** [Urban Bio Space Simulator - HTW Berlin](https://showtime.f4.htw-berlin.de/ss25/bachelor/b4-urban-bio-space-simulator/)
 
-**Project website:** https://showtime.f4.htw-berlin.de/ss25/bachelor/b4-urban-bio-space-simulator/
+**GitHub repository:** [lweissenstein/biotopia](https://github.com/lweissenstein/biotopia)
 
 ---
 
