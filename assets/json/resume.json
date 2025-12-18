@@ -85,6 +85,7 @@
         "Material Setup: Created and managed materials and shaders in Unity for mobile performance."
       ],
       "startDate": "2025",
+      "endDate": "",
       "url": "https://lweissenstein.github.io/projects/biotopia.html"
     },
     {
@@ -114,8 +115,8 @@
   "education": [
     {
       "institution": "HTW Berlin",
-      "location": "Berlin, Germany",
-      "url": "",
+      "location": "",
+      "url": "https://www.htw-berlin.de/en/",
       "area": "International Media Informatics",
       "studyType": "B.Sc.",
       "startDate": "2022",
@@ -125,8 +126,8 @@
     },
     {
       "institution": "TU Berlin",
-      "location": "Berlin, Germany",
-      "url": "",
+      "location": "",
+      "url": "https://www.tu.berlin/en/",
       "area": "Industrial Engineering with Civil Engineering",
       "studyType": "Uncompleted (Career Change)",
       "startDate": "2016",
@@ -136,8 +137,8 @@
     },
     {
       "institution": "Gymnasium Bildungszentrum Markdorf",
-      "location": "Markdorf, Germany",
-      "url": "",
+      "location": "",
+      "url": "https://www.bzm-markdorf.de/",
       "area": "General Studies",
       "studyType": "Abitur",
       "startDate": "2006",
