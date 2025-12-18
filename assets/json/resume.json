@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Lennart Weissenstein",
-    "label": "Unity Developer & Technical Artist",
+    "label": "Game Designer, 3D Artist & Technical Artist",
     "image": "prof_pic.jpg",
     "email": "le.weissenstein@gmail.com",
     "phone": "+49 152 27 158 227",
     "url": "https://lweissenstein.github.io",
-    "summary": "International Media Informatics student specializing in Game Design, 3D Modeling, and Materials/Asset Optimization.\n\nTechnical proficiency in Unity and Maya with a proven professional background in project coordination and communication.",
+    "summary": "Technical proficiency in Unity and Maya, with hands-on experience in real-time asset creation, mobile optimization, and collaborative team projects.",
     "location": {
       "address": "Werrastraße",
       "postalCode": "12059",
@@ -29,29 +29,50 @@
   },
   "skills": [
     {
-      "name": "3D & Tech Art",
+      "name": "3D Art & Technical Art",
       "icon": "fa-solid fa-cube",
-      "keywords": ["Unity Workflows", "Blender", "Maya", "Basic Shader Logic", "Asset Preparation", "Scene Composition"]
+      "keywords": [
+        "Environment & Prop Modeling",
+        "Game-Ready 3D Asset Creation",
+        "PBR Materials & Texturing",
+        "Asset Optimization for Real-Time",
+        "Basic ShaderGraph",
+        "Scene Assembly & Composition"
+      ]
     },
     {
-      "name": "Game Development",
+      "name": "Game Development (Unity)",
       "icon": "fa-solid fa-gamepad",
-      "keywords": ["Game Design", "Real-time 3D", "Prototyping", "Basic Animation & Rigging", "VR/AR"]
+      "keywords": [
+        "Unity Engine",
+        "Gameplay Prototyping",
+        "Game Systems Implementation",
+        "2D/3D Game Development",
+        "UI Implementation",
+        "VR / AR Basics"
+      ]
     },
     {
-      "name": "Programming",
+      "name": "Programming & Scripting",
       "icon": "fa-solid fa-code",
-      "keywords": ["C#", "Java", "JavaScript"]
+      "keywords": ["C# (Unity)", "Java", "JavaScript", "Python (Basic Scripting)", "SQL", "HTML/CSS"]
     },
     {
-      "name": "Software & Tools",
+      "name": "Tools & Production",
       "icon": "fa-solid fa-toolbox",
-      "keywords": ["Jira", "Trello", "Notion", "Microsoft Office"]
+      "keywords": ["Unity", "Maya", "Git", "Blender", "Substance 3D Painter", "TYPO3", "OBS", "Notion", "Asana", "Teams"]
     },
     {
-      "name": "General Skills",
+      "name": "Collaboration & Soft Skills",
       "icon": "fa-solid fa-users",
-      "keywords": ["Event planning & project management", "Communication & teamwork", "Logistics coordination"]
+      "keywords": [
+        "Cross-Team Coordination",
+        "Deadline-Oriented Project Work",
+        "Clear & Structured Communication",
+        "Working with External Stakeholders",
+        "Team Collaboration in Production Environments",
+        "Reliability & Ownership"
+      ]
     }
   ],
   "projects": [
@@ -60,7 +81,7 @@
       "summary": "Serious game simulation developed for research partners (Food4Future, IGZ). The mobile/tablet game challenges players to implement alternative, research-based food production methods (crickets, macroalgae) to feed a growing population",
       "highlights": [
         "Environment 3D Artist: Modeled and textured key environment assets.",
-        "Technical Art & Pipeline: Optimized models from various team member for mobile performance, ensuring a cohesive art style and clean asset pipeline.",
+        "Technical Art & Pipeline: Optimized assets from multiple team members for mobile performance, ensuring a cohesive art style and clean asset pipeline.",
         "Material Setup: Created and managed materials and shaders in Unity for mobile performance."
       ],
       "url": "https://lweissenstein.github.io/projects/biotopia.html"
@@ -71,6 +92,7 @@
       "highlights": [
         "Implemented 360° shooting and gun rotation with directional sprites.",
         "Developed a custom UI and local highscore system.",
+        "Designed and iterated on the core gameplay loop and difficulty progression.",
         "Created custom pulsating shader in ShaderGraph and used Tilemaps for designing the arena."
       ],
       "url": "https://lweissenstein.github.io/projects/astro-dungeon.html"
