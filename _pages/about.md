@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Game Design. 3D Art. Tech Art. Unity.
 
 profile:
   align: right
@@ -47,4 +47,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/lennart-weissenstein/)
   </div>
 </div>
 
-`Check out [all my projects](/projects/).`
+`Check out my` [projects](/projects/).
