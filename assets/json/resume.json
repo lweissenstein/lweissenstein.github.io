@@ -60,7 +60,7 @@
     {
       "name": "Tools & Production",
       "icon": "fa-solid fa-toolbox",
-      "keywords": ["Unity", "Maya", "Git", "Blender", "Substance 3D Painter", "TYPO3", "OBS", "Notion", "Asana", "Teams"]
+      "keywords": ["Unity", "Autodesk Maya", "Git", "Substance 3D Painter", "TYPO3", "OBS"]
     },
     {
       "name": "Collaboration & Soft Skills",
@@ -71,7 +71,7 @@
         "Clear & Structured Communication",
         "Working with External Stakeholders",
         "Team Collaboration in Production Environments",
-        "Reliability & Ownership"
+        "Team Communication & Task Coordination (Notion, Asana, Teams)"
       ]
     }
   ],
