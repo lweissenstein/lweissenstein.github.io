@@ -84,7 +84,7 @@
         "Technical Art & Pipeline: Optimized assets from multiple team members for mobile performance, ensuring a cohesive art style and clean asset pipeline.",
         "Material Setup: Created and managed materials and shaders in Unity for mobile performance."
       ],
-      "year": "2025",
+      "startDate": "2025",
       "url": "https://lweissenstein.github.io/projects/biotopia.html"
     },
     {
@@ -96,7 +96,7 @@
         "Designed and iterated on the core gameplay loop and difficulty progression.",
         "Created custom pulsating shader in ShaderGraph and used Tilemaps for designing the arena."
       ],
-      "year": "2025",
+      "startDate": "2025",
       "url": "https://lweissenstein.github.io/projects/astro-dungeon.html"
     },
     {
@@ -107,7 +107,7 @@
         "Implemented PBR workflow for realistic material definition (Base Color, Roughness, Normal maps).",
         "Used Arnold renderer with a 3-point lighting setup for final high-quality renders."
       ],
-      "year": "2025",
+      "startDate": "2025",
       "url": "https://lweissenstein.github.io/projects/3d-turntable-technics.html"
     }
   ],
@@ -118,7 +118,7 @@
       "url": "",
       "area": "International Media Informatics",
       "studyType": "B.Sc.",
-      "startDate": "2022-01-01",
+      "startDate": "2022",
       "endDate": "Present",
       "score": "",
       "courses": []
@@ -129,8 +129,8 @@
       "url": "",
       "area": "Industrial Engineering with Civil Engineering",
       "studyType": "Uncompleted (Career Change)",
-      "startDate": "2016-01-01",
-      "endDate": "2022-01-01",
+      "startDate": "2016",
+      "endDate": "2022",
       "score": "",
       "courses": []
     },
@@ -140,8 +140,8 @@
       "url": "",
       "area": "General Studies",
       "studyType": "Abitur",
-      "startDate": "2006-01-01",
-      "endDate": "2014-01-01",
+      "startDate": "2006",
+      "endDate": "2014",
       "score": "",
       "courses": []
     }
@@ -151,7 +151,7 @@
       "name": "Zukunft findet Stadt (HTW Berlin)",
       "position": "PR & Communication - Student Assistant",
       "url": "",
-      "startDate": "2023-01-01",
+      "startDate": "2023",
       "endDate": "Present",
       "summary": "Supported the Communication Department (PR, event planning, and content management) while pursuing my B.Sc. in International Media Informatics.",
       "highlights": [
@@ -163,8 +163,8 @@
       "name": "neues handeln AG",
       "position": "Event & Project Management - Student Assistant",
       "url": "",
-      "startDate": "2020-01-01",
-      "endDate": "2022-12-31",
+      "startDate": "2020",
+      "endDate": "2022",
       "summary": "Provided support in PR and event-focused project management for major federal clients (BMEL, BMG, BZgA) during my studies.",
       "highlights": [
         "Coordinated external partners for large-scale events and communication campaigns.",
@@ -175,8 +175,8 @@
       "name": "LOTTO Berlin",
       "position": "Logistics & Sales - Student Assistant",
       "url": "",
-      "startDate": "2018-01-01",
-      "endDate": "2020-12-31",
+      "startDate": "2018",
+      "endDate": "2020",
       "summary": "Provided logistics support and coordinated sales materials for area managers.",
       "highlights": [
         "Maintained inventory and supply chain logistics, demonstrating organizational accountability.",
@@ -187,8 +187,8 @@
       "name": "Zenjob",
       "position": "Short-term Employment (Logistics/Service)",
       "url": "",
-      "startDate": "2016-01-01",
-      "endDate": "2018-12-31",
+      "startDate": "2016",
+      "endDate": "2018",
       "summary": "Executed various service and logistics roles including catering, warehouse coordination, and retail support.",
       "highlights": ["Demonstrated flexibility and reliability in rapidly changing professional environments."]
     }
