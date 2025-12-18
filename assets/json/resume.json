@@ -71,7 +71,7 @@
         "Clear & Structured Communication",
         "Working with External Stakeholders",
         "Team Collaboration in Production Environments",
-        "Team Communication & Task Coordination (Notion, Asana, Teams)"
+        "management Tools (Notion, Asana, Teams)"
       ]
     }
   ],
@@ -85,7 +85,7 @@
         "Material Setup: Created and managed materials and shaders in Unity for mobile performance."
       ],
       "startDate": "2025",
-      "endDate": "",
+      "endDate": "2025",
       "url": "https://lweissenstein.github.io/projects/biotopia.html"
     },
     {
@@ -108,28 +108,29 @@
         "Implemented PBR workflow for realistic material definition (Base Color, Roughness, Normal maps).",
         "Used Arnold renderer with a 3-point lighting setup for final high-quality renders."
       ],
-      "startDate": "2025",
+      "startDate": "2024",
+      "endDate": "2025",
       "url": "https://lweissenstein.github.io/projects/3d-turntable-technics.html"
     }
   ],
   "education": [
     {
       "institution": "HTW Berlin",
-      "location": "",
+      "location": "Germany",
       "url": "https://www.htw-berlin.de/en/",
-      "area": "International Media Informatics",
-      "studyType": "B.Sc.",
+      "area": "Programming, Game Design, Visual Computing, Web Dev.",
+      "studyType": "International Media Informatics - B.Sc.",
       "startDate": "2022",
-      "endDate": "Present",
+      "endDate": "",
       "score": "",
       "courses": []
     },
     {
       "institution": "TU Berlin",
-      "location": "",
+      "location": "Germany",
       "url": "https://www.tu.berlin/en/",
-      "area": "Industrial Engineering with Civil Engineering",
-      "studyType": "Uncompleted (Career Change)",
+      "area": "Civil Engineering and Business Studies",
+      "studyType": "Industrial Engineering - B.Sc. (uncompleted / Career Change)",
       "startDate": "2016",
       "endDate": "2022",
       "score": "",
@@ -137,10 +138,10 @@
     },
     {
       "institution": "Gymnasium Bildungszentrum Markdorf",
-      "location": "",
+      "location": "Germany",
       "url": "https://www.bzm-markdorf.de/",
-      "area": "General Studies",
-      "studyType": "Abitur",
+      "area": "Economy, Physics, Arts",
+      "studyType": "General Studies - Abitur",
       "startDate": "2006",
       "endDate": "2014",
       "score": "",
