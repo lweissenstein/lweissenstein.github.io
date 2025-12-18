@@ -89,7 +89,7 @@ ninja.data = [{
               window.location.href = "/projects/astro-dungeon.html";
             },},{id: "projects-biotopia",
           title: 'Biotopia',
-          description: "Urban Bio Space Simulator (Unity, Mobile)",
+          description: "Serious Game with food4future (Unity, Mobile)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/biotopia.html";
             },},{id: "projects-portfolio-website",
