@@ -20,6 +20,12 @@ h2.category {
   font-size: 2rem;
 }
 
+.cv {
+  h3.card-title {
+    text-transform: none;
+  }
+}
+
 // body,
 // body *:not(code):not(pre):not(kbd):not(samp) {
 //  font-family: "Ubuntu Mono", monospace !important;
