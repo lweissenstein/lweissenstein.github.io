@@ -14,6 +14,8 @@ selected: true
   </div>
 </div>
 
+---
+
 **play online:** [itch.io](https://weissenstein.itch.io/astro-dungeon)
 
 **Astro Dungeon** is a 2D endless top-down shooter where you play as a stranded astronaut defending against waves of alien enemies. Players navigate procedurally generated arenas, collect power-ups, and aim strategically to survive as long as possible.
@@ -31,6 +33,8 @@ Astro Dungeon is a solo university project focused on building a complete endles
 - Emphasis on gameplay feel, responsiveness, and difficulty scaling
 - Prioritized mechanics and object interaction over narrative content
 
+---
+
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/astro-dungeon/InGame1.png" class="img-fluid rounded z-depth-1" %}
@@ -39,6 +43,8 @@ Astro Dungeon is a solo university project focused on building a complete endles
     {% include figure.liquid path="assets/img/astro-dungeon/InGame2.png" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
+
+---
 
 ## My Role
 
@@ -55,11 +61,15 @@ Astro Dungeon is an **endless top-down shooter** that emphasizes movement, preci
 - Simple UI, pause menu, and integrated audio
 - Local highscore system to track best performances
 
+---
+
 <div class="row justify-content-sm-center">
   <div class="col-sm-12 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/astro-dungeon/InGame7.png" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
+
+---
 
 ## Technical Challenges
 
@@ -70,11 +80,15 @@ Key challenges addressed during development included:
 - Balancing gameplay difficulty
 - Maintaining a cohesive visual style
 
+---
+
 <div class="row justify-content-sm-center">
   <div class="col-sm-12 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/astro-dungeon/InGame4.png" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
+
+---
 
 ## Licensing
 

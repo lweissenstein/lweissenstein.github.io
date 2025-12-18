@@ -19,6 +19,8 @@ selected: true
   </div>
 </div>
 
+---
+
 ## Context & Scope
 
 This project was created as part of a university 3D Design assignment with a focus on realism and presentation quality.
@@ -27,11 +29,15 @@ This project was created as part of a university 3D Design assignment with a foc
 - Emphasis on materials, lighting, rendering
 - Aimed for polished still renders
 
+---
+
 <div class="row justify-content-sm-center">
   <div class="col-sm-12 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/3d-turntable-technics/Technics_render_detail1.png" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
+
+---
 
 ## My Role
 
@@ -40,6 +46,8 @@ I was responsible for the **complete asset creation**, including modeling, textu
 - High-detail polygonal modeling in Autodesk Maya
 - PBR material creation for realistic surface properties (Hypershade)
 - Lighting and rendering setup using a 3-point lighting system (Arnold)
+
+---
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
@@ -74,6 +82,14 @@ The asset was created with a focus on **accuracy and realism**, using references
     {% include figure.liquid path="assets/img/3d-turntable-technics/Technics_render_detail2.png" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-12 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/3d-turntable-technics/Technics_render_top.png" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
+---
 
 ## Licensing
 
