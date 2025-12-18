@@ -1,17 +1,11 @@
 ---
 layout: page
 title: Biotopia
-description: Urban Bio Space Simulator (Unity, Mobile)
+description: Serious Game with food4future (Unity, Mobile)
 img: assets/img/biotopia/BioTopia_2.png
 importance: 1
 category: university
 selected: true
----
-
-**Developer:** Team Project / Lennart Wei�enstein  
-**Role:** Environment 3D Artist, Tech Artist, Game Designer  
-**Project:** Serious Game for Mobile / Tablet (Unity)
-
 ---
 
 <div class="row justify-content-sm-center">
@@ -26,17 +20,29 @@ selected: true
 
 The game explores future food production under conditions of limited space, water scarcity, and disrupted trade. Players design and manage compact **urban biospaces** to sustain a growing population using alternative food sources.
 
-**Project website:** [Urban Bio Space Simulator - HTW Berlin](https://showtime.f4.htw-berlin.de/ss25/bachelor/b4-urban-bio-space-simulator/)
+**Developer:** Team Project / Lennart Weissenstein  
+**Role:** Environment 3D Artist, Tech Artist, Game Designer  
 
+**Project website:** [Urban Bio Space Simulator - HTW Berlin](https://showtime.f4.htw-berlin.de/ss25/bachelor/b4-urban-bio-space-simulator/)
 **GitHub repository:** [lweissenstein/biotopia](https://github.com/lweissenstein/biotopia)
 
 ---
 
-## my role & contributions
+## Context & Scope
+
+BioTopia is a university team-project developed in collaboration with partners.
+
+- Created with Food4Future (f4f) and the Leibniz Institute (IGZ)
+- Implements scientific research into future food production systems
+- Expanded from a PC prototype to mobile and tablet platforms
+
+---
+
+## My Role
 
 I worked primarily as an **Environment 3D Artist and Technical Artist**, bridging the gap between visual design and technical implementation in Unity.
 
-- 3D environment modeling & asset creation
+- 3D environment modeling & asset creation in Maya
 - Asset optimization & mobile performance tuning
 - Material and shader setup in Unity
 - Visual consistency across assets from multiple contributors
@@ -55,16 +61,16 @@ I worked primarily as an **Environment 3D Artist and Technical Artist**, bridgin
 
 ---
 
-## gameplay & systems
+## Gameplay
 
 BioTopia is a **city management simulation** focused on _systems_, not city layout. Players must carefully allocate limited space while balancing research, resources, and population needs.
 
 Key gameplay elements include:
 
-- Modular urban biospaces for food production
-- Procedural city growth increasing spatial pressure
-- Research-driven progression based on real-world data
-- Alternative food sources (algae, insects, halophytes, jellyfish)
+- Managing shrinking land as the city and population grow  
+- Allocating and optimizing food sources to meet population needs  
+- Rreal-world research translated into the game  
+- Building compartments for alternative food sources in underused spaces like basements or rooftops
 
 ---
 
@@ -76,15 +82,16 @@ Key gameplay elements include:
 
 ---
 
-## technical focus & challenges
+## Technical Challenges
 
-A major challenge was **porting a PC prototype to mobile and tablet devices** while preserving visual quality.
+A major challenge was **collaborating as a team under deadlines with external research partners**, integrating their scientific input while implementing our own gameplay and design ideas.
 
-Key technical learnings:
+My key technical learnings:
 
-- Optimizing materials, shaders, and poly-counts for mobile GPUs
-- Establishing a clean asset pipeline for multi-artist collaboration
-- Translating scientific research into intuitive, playable systems
+- Creating and optimizing 3D assets for mobile and tablet platforms, keeping poly counts low while maintaining visual quality  
+- Adjusting and unifying models from multiple contributors for consistent style and performance  
+- Working closely with research insights to support educational and gameplay objectives
+
 
 ---
 
@@ -96,10 +103,8 @@ Key technical learnings:
 
 ---
 
-## team & context
+## Licensing
 
-BioTopia was developed as a **team-based university project** at HTW Berlin in collaboration with external research partners.
+This repository is provided for portfolio purposes only.
 
-This repository exists **for portfolio display purposes only**. All intellectual property belongs to the original project stakeholders.
-
-For more screenshots, development process, and documentation, please visit the **GitHub repository** linked above.
+All assets and license information are available here:  [Biotopia Licenses](https://github.com/lweissenstein/biotopia/tree/main/licence)
