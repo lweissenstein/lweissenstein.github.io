@@ -88,7 +88,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/astro-dungeon.html";
             },},{id: "projects-biotopia",
-          title: 'Biotopia',
+          title: 'BioTopia',
           description: "Serious Mobile Game with Food4Future",
           section: "Projects",handler: () => {
               window.location.href = "/projects/biotopia.html";
