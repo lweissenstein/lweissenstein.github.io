@@ -97,7 +97,7 @@
         "Implemented PBR workflow for realistic material definition (Base Color, Roughness, Normal maps).",
         "Used Arnold renderer with a 3-point lighting setup for final high-quality renders."
       ],
-      "Tools": "Maya, Hypershade, ArnoldRenderer"
+      "Tools": "Maya, Hypershade, ArnoldRenderer",
       "startDate": "",
       "endDate": "",
       "url": "https://lweissenstein.github.io/projects/3d-turntable-technics.html"
@@ -111,7 +111,7 @@
         "Designed and iterated on the core gameplay loop and difficulty progression.",
         "Created custom pulsating shader in ShaderGraph and used Tilemaps for designing the arena."
       ],
-      "Tools": "Unity, shaderGraph, GitHub"
+      "Tools": "Unity, shaderGraph, GitHub",
       "startDate": "",
       "url": "https://lweissenstein.github.io/projects/astro-dungeon.html"
     }
