@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Lennart Weissenstein",
-    "label": "Game Designer, Technical Artist & 3D Artist",
+    "headline": "Real-Time 3D & Game Development",
+    "summary": "Experience with Unity and Maya in real-time workflows, including 3D asset creation, technical implementation, and collaborative project development.",
     "image": "prof_pic.jpg",
     "email": "le.weissenstein@gmail.com",
     "phone": "+49 152 27 158 227",
     "url": "https://lweissenstein.github.io",
-    "summary": "Technical proficiency in Unity and Maya, with experience in real-time asset creation, game development and collaborative team projects including version control.",
     "location": {
       "address": "Werrastraße",
       "postalCode": "12059",
@@ -84,9 +84,23 @@
         "Tech Art: Optimized assets from multiple team members for mobile performance, ensuring a cohesive art style and clean asset pipeline.",
         "Material Setup: Created and managed materials and shaders in Unity for mobile performance."
       ],
+      "Tools": "Unity, Maya, GitHub"
       "startDate": "",
       "endDate": "",
       "url": "https://lweissenstein.github.io/projects/biotopia.html"
+    },
+    {
+      "name": "3D Turntable Project – Technics 1210 MK2",
+      "summary": "High-quality, highly detailed 3D asset creation project (57k+ vertices) completed for a university 3D Design course. Focused on technical skill in modeling, material setup, and rendering.",
+      "highlights": [
+        "Modeling and Scene Setup completed in Autodesk Maya.",
+        "Implemented PBR workflow for realistic material definition (Base Color, Roughness, Normal maps).",
+        "Used Arnold renderer with a 3-point lighting setup for final high-quality renders."
+      ],
+      "Tools": "Maya, Hypershade, ArnoldRenderer"
+      "startDate": "",
+      "endDate": "",
+      "url": "https://lweissenstein.github.io/projects/3d-turntable-technics.html"
     },
     {
       "name": "Astro Dungeon",
@@ -97,20 +111,9 @@
         "Designed and iterated on the core gameplay loop and difficulty progression.",
         "Created custom pulsating shader in ShaderGraph and used Tilemaps for designing the arena."
       ],
+      "Tools": "Unity, shaderGraph, GitHub"
       "startDate": "",
       "url": "https://lweissenstein.github.io/projects/astro-dungeon.html"
-    },
-    {
-      "name": "3D Turntable Project – Technics 1210 MK2",
-      "summary": "High-quality, highly detailed 3D asset creation project (57k+ vertices) completed for a university 3D Design course. Focused on technical skill in modeling, material setup, and rendering.",
-      "highlights": [
-        "Modeling and Scene Setup completed in Autodesk Maya.",
-        "Implemented PBR workflow for realistic material definition (Base Color, Roughness, Normal maps).",
-        "Used Arnold renderer with a 3-point lighting setup for final high-quality renders."
-      ],
-      "startDate": "",
-      "endDate": "",
-      "url": "https://lweissenstein.github.io/projects/3d-turntable-technics.html"
     }
   ],
   "education": [
