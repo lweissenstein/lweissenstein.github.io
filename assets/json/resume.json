@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Lennart Weissenstein",
-    "label": "Game Designer, 3D Artist & Technical Artist",
+    "label": "Game Designer, Technical Artist & 3D Artist",
     "image": "prof_pic.jpg",
     "email": "le.weissenstein@gmail.com",
     "phone": "+49 152 27 158 227",
     "url": "https://lweissenstein.github.io",
-    "summary": "Technical proficiency in Unity and Maya, with hands-on experience in real-time asset creation, mobile optimization, and collaborative team projects.",
+    "summary": "Technical proficiency in Unity and Maya, with experience in real-time asset creation, game development and collaborative team projects including version control.",
     "location": {
       "address": "Werrastraße",
       "postalCode": "12059",
@@ -29,7 +29,7 @@
   },
   "skills": [
     {
-      "name": "3D Art & Technical Art",
+      "name": "Tech Art & 3D Art",
       "icon": "fa-solid fa-cube",
       "keywords": [
         "Environment & Prop Modeling",
@@ -60,7 +60,7 @@
     {
       "name": "Tools & Production",
       "icon": "fa-solid fa-toolbox",
-      "keywords": ["Unity", "Autodesk Maya", "Git", "Substance 3D Painter", "TYPO3", "OBS"]
+      "keywords": ["Unity", "Autodesk Maya", "Version Control (Git)", "TYPO3", "Substance 3D Painter", "OBS"]
     },
     {
       "name": "Collaboration & Soft Skills",
@@ -81,11 +81,11 @@
       "summary": "Serious game simulation developed for research partners (Food4Future, IGZ). The mobile/tablet game challenges players to implement alternative, research-based food production methods (crickets, macroalgae) to feed a growing population",
       "highlights": [
         "Environment 3D Artist: Modeled and textured key environment assets.",
-        "Technical Art & Pipeline: Optimized assets from multiple team members for mobile performance, ensuring a cohesive art style and clean asset pipeline.",
+        "Tech Art: Optimized assets from multiple team members for mobile performance, ensuring a cohesive art style and clean asset pipeline.",
         "Material Setup: Created and managed materials and shaders in Unity for mobile performance."
       ],
       "startDate": "2025",
-      "endDate": "2025",
+      "endDate": "null",
       "url": "https://lweissenstein.github.io/projects/biotopia.html"
     },
     {
