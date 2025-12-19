@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biotopia
+title: BioTopia
 description: Serious Mobile Game with Food4Future
 img: assets/img/biotopia/BioTopia_2.png
 importance: 1
@@ -18,7 +18,7 @@ selected: true
 
 ---
 
-**Biotopia** is a serious urban simulation game developed in collaboration with **Food4Future (f4f)** and the **Leibniz-Institut fuer Gemuese- und Zierpflanzenbau (IGZ)**.
+**BioTopia** is a serious urban simulation game developed in collaboration with **Food4Future (f4f)** and the **Leibniz-Institut fuer Gemuese- und Zierpflanzenbau (IGZ)**.
 
 The game explores future food production under conditions of limited space, water scarcity, and disrupted trade. Players design and manage compact **urban biospaces** to sustain a growing population using alternative food sources.
 

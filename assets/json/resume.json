@@ -84,8 +84,8 @@
         "Tech Art: Optimized assets from multiple team members for mobile performance, ensuring a cohesive art style and clean asset pipeline.",
         "Material Setup: Created and managed materials and shaders in Unity for mobile performance."
       ],
-      "startDate": "2025",
-      "endDate": "null",
+      "startDate": "",
+      "endDate": "",
       "url": "https://lweissenstein.github.io/projects/biotopia.html"
     },
     {
@@ -97,7 +97,7 @@
         "Designed and iterated on the core gameplay loop and difficulty progression.",
         "Created custom pulsating shader in ShaderGraph and used Tilemaps for designing the arena."
       ],
-      "startDate": "2025",
+      "startDate": "",
       "url": "https://lweissenstein.github.io/projects/astro-dungeon.html"
     },
     {
@@ -108,8 +108,8 @@
         "Implemented PBR workflow for realistic material definition (Base Color, Roughness, Normal maps).",
         "Used Arnold renderer with a 3-point lighting setup for final high-quality renders."
       ],
-      "startDate": "2024",
-      "endDate": "2025",
+      "startDate": "",
+      "endDate": "",
       "url": "https://lweissenstein.github.io/projects/3d-turntable-technics.html"
     }
   ],
