@@ -28,12 +28,12 @@ h2.category {
 
 .about {
   .posthead {
-    margin-bottom: 0;
+    margin-bottom: 0 !important;
   }
 
   .desc p {
-    color: var(--global-theme-color);
-    font-size: 1.1rem; 
+    color: var(--global-theme-color) !important;
+    font-size: 1.1rem !important;
   }
 }
 
