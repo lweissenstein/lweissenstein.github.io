@@ -26,14 +26,15 @@ h2.category {
   }
 }
 
-.about {
-  .posthead {
+.post.about {
+  header {
     margin-bottom: 0 !important;
   }
 
-  .desc p {
+  .desc {
     color: var(--global-theme-color) !important;
-    font-size: 1.1rem !important;
+    font-size: 1.3rem !important;
+    margin-top: 0 !important;
   }
 }
 
