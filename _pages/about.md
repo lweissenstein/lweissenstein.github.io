@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 3D Art. Tech Art. Game Development.
+subtitle: 3D Art. Technical Art. Game Production.
 
 profile:
   align: right

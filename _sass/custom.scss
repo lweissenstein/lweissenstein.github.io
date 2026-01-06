@@ -26,6 +26,17 @@ h2.category {
   }
 }
 
+.about {
+  .posthead {
+    margin-bottom: 0;
+  }
+
+  .desc p {
+    color: var(--global-theme-color);
+    font-size: 1.1rem; 
+  }
+}
+
 // body,
 // body *:not(code):not(pre):not(kbd):not(samp) {
 //  font-family: "Ubuntu Mono", monospace !important;
