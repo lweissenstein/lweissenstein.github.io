@@ -26,15 +26,9 @@ h2.category {
   }
 }
 
-.about {
-  h1 {
-    margin-bottom: 0 !important;
-  }
-
-  p.desc {
-    color: var(--global-theme-color) !important;
-    font-size: 1.3rem !important;
-    }
+.desc {
+  color: var(--global-theme-color) !important;
+  font-size: 1.1rem !important;
 }
 
 // body,
