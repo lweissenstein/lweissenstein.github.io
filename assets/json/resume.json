@@ -85,8 +85,8 @@
         "Material Setup: Created and managed materials and shaders in Unity for mobile performance."
       ],
       "Tools": "Unity, Maya, GitHub",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2025",
+      "endDate": "2025",
       "url": "https://lweissenstein.github.io/projects/biotopia.html"
     },
     {
@@ -98,8 +98,8 @@
         "Used Arnold renderer with a 3-point lighting setup for final high-quality renders."
       ],
       "Tools": "Maya, Hypershade, ArnoldRenderer",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2024",
+      "endDate": "2025",
       "url": "https://lweissenstein.github.io/projects/3d-turntable-technics.html"
     },
     {
@@ -112,7 +112,8 @@
         "Created custom pulsating shader in ShaderGraph and used Tilemaps for designing the arena."
       ],
       "Tools": "Unity, shaderGraph, GitHub",
-      "startDate": "",
+      "startDate": "2025",
+      "endDate": "2025",
       "url": "https://lweissenstein.github.io/projects/astro-dungeon.html"
     }
   ],
