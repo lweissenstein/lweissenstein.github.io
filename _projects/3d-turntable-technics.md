@@ -53,13 +53,10 @@ I was responsible for the **complete asset creation**, including modeling, textu
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/3d-turntable-technics/Technics_render_back_right.png" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/3d-turntable-technics/Technics_render_detail3.png" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/3d-turntable-technics/Technics_render_back.png" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/3d-turntable-technics/Technics_render_back_left.png" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/3d-turntable-technics/Technics_render_detail2.png" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
@@ -78,16 +75,13 @@ The asset was created with a focus on **accuracy and realism**, using references
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/3d-turntable-technics/Technics_render_detail3.png" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/3d-turntable-technics/Technics_render_back_right.png" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/3d-turntable-technics/Technics_render_detail2.png" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/3d-turntable-technics/Technics_render_back.png" class="img-fluid rounded z-depth-1" %}
   </div>
-</div>
-
-<div class="row justify-content-sm-center">
-  <div class="col-sm-12 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/3d-turntable-technics/Technics_render_top.png" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/3d-turntable-technics/Technics_render_back_left.png" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
@@ -98,5 +92,15 @@ The asset was created with a focus on **accuracy and realism**, using references
 This repository is provided for portfolio purposes only.
 
 All assets and license information are available here: [3D Turntable Licenses](https://github.com/lweissenstein/3d-turntable-technics/tree/main/licenses)
+
+---
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-12 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/3d-turntable-technics/Technics_render_top.png" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
+---
 
 [Back to all projects](/projects/)
