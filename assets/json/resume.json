@@ -43,14 +43,7 @@
     {
       "name": "Game Development (Unity)",
       "icon": "fa-solid fa-gamepad",
-      "keywords": [
-        "Unity Engine",
-        "Gameplay Prototyping",
-        "Game Systems Implementation",
-        "2D/3D Game Development",
-        "UI Implementation",
-        "Tilemaps"
-      ]
+      "keywords": ["Unity Engine", "Gameplay Prototyping", "Game Systems Implementation", "2D/3D Game Development", "UI Implementation", "Tilemaps"]
     },
     {
       "name": "Programming & Scripting",
