@@ -2,10 +2,10 @@
   "basics": {
     "name": "Lennart Weissenstein",
     "headline": "3D Art, Tech Art & Game Development",
-    "summary": "Experience with Unity and Maya in real-time workflows, including 3D asset creation, technical implementation, optimization, and collaborative production environments.",
+    "summary": "Experience with Unity and Maya in real-time workflows, including 3D asset creation, technical implementation, optimization, and collaborative production environments. Currently seeking a 4-month full-time internship starting April 2026 onwards.",
     "image": "prof_pic.jpg",
     "email": "le.weissenstein@gmail.com",
-    "phone": "+49 152 27 158 227",
+    "phone": "+49 152 27158227",
     "url": "https://lweissenstein.github.io",
     "location": {
       "address": "Werrastraße",
@@ -36,7 +36,7 @@
         "Game-Ready 3D Asset Creation",
         "PBR Materials & Texturing",
         "Asset Optimization for Real-Time",
-        "Basic ShaderGraph",
+        "Shader Graph (Unity)",
         "Scene Assembly & Composition"
       ]
     },
@@ -49,7 +49,7 @@
         "Game Systems Implementation",
         "2D/3D Game Development",
         "UI Implementation",
-        "VR / AR Basics"
+        "Tilemaps"
       ]
     },
     {
@@ -60,7 +60,7 @@
     {
       "name": "Tools & Production",
       "icon": "fa-solid fa-toolbox",
-      "keywords": ["Unity", "Autodesk Maya", "Version Control (Git)", "TYPO3", "Substance 3D Painter", "OBS"]
+      "keywords": ["Unity", "Autodesk Maya", "Version Control (Git)", "TYPO3"]
     },
     {
       "name": "Collaboration & Soft Skills",
@@ -81,7 +81,7 @@
       "summary": "Serious game simulation developed for research partners (Food4Future, IGZ). The mobile/tablet game challenges players to implement alternative, research-based food production methods (crickets, macroalgae) to feed a growing population",
       "highlights": [
         "Environment 3D Artist: Modeled and textured key environment assets.",
-        "Tech Art: Optimized assets from multiple team members for mobile performance, ensuring a cohesive art style and clean asset pipeline.",
+        "Tech Art: Optimized project assets for mobile performance and visual consistency.",
         "Material Setup: Created and managed materials and shaders in Unity for mobile performance."
       ],
       "Tools": "Unity, Maya, GitHub",
@@ -122,7 +122,7 @@
       "institution": "HTW Berlin",
       "location": "Germany",
       "url": "https://imi-bachelor.htw-berlin.de//",
-      "area": "Programming, Game Design, Visual Computing, Web Dev.",
+      "area": "Programming, 3D & Technical Art, Visual Computing, Game Development",
       "studyType": "International Media and Computing - B.Sc.",
       "startDate": "2022",
       "endDate": "",
@@ -155,7 +155,7 @@
   "work": [
     {
       "name": "Zukunft findet Stadt (HTW Berlin)",
-      "position": "PR & Communication Assistant",
+      "position": "Communication & PR Assistant",
       "url": "",
       "startDate": "2023",
       "endDate": "Present",
@@ -173,8 +173,9 @@
       "endDate": "2022",
       "summary": "Provided support in PR and event-focused project management for major federal clients (BMEL, BMG, BZgA) during my studies.",
       "highlights": [
-        "Coordinated external partners for large-scale events and communication campaigns.",
-        "Managed detailed logistics, schedules, resource allocation and on-site operation to ensure a quality project execution."
+        "Managing public website content (blog, events, subprojects, images/licenses) using Typo3 CMS.",
+        "Supporting event planning and execution, requiring schedule coordination across multiple internal teams.",
+        "Writing blog articles to communicate research projects and scientific topics to a public audience."
       ]
     },
     {
@@ -215,11 +216,6 @@
       "fluency": "B2 (Intermediate)",
       "icon": ""
     },
-    {
-      "language": "Italian",
-      "fluency": "A1 (Beginner)",
-      "icon": ""
-    }
   ],
   "volunteer": [],
   "awards": [],
